@@ -5,10 +5,10 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ZekerRealDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/BielyDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/ZekerRealDev?tab=followers">
+    <a href="https://github.com/BielyDev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -55,14 +55,6 @@
 />
 <img 
     align="left" 
-    alt="Arduino"
-    title="Arduino" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/353423/arduino.svg" 
-/>
-<img 
-    align="left" 
     alt="Discord"
     title="Discord" 
     width="30px" 
@@ -88,7 +80,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ZekerRealDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=BielyDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
